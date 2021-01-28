@@ -1,0 +1,21 @@
+body{
+    font-size: 1.6em;
+    letter-spacing: 0.1em;
+}
+.container{
+    text-align: center;
+}
+
+.image{
+    height: 150px;
+    padding: 20px 20px 20px 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(78, 78, 153);
+}
+
+.description{
+    text-align: left;
+}

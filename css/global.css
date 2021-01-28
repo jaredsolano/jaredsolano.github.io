@@ -1,0 +1,39 @@
+body{
+    font-size: 1.6em;
+    letter-spacing: 0.1em;
+}
+.container{
+    text-align: center;
+}
+
+.links a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.links a{
+    text-decoration: none;
+}
+
+.links{
+    font-size: 1.25em;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+}
+
+.title{
+    color: #2848ff;
+    font-weight: bold;
+}
+
+.row{
+    padding-top:4vh;
+}
+
+.fa-github-square:hover{
+    color:rgb(156, 156, 156);
+}
+
+i{
+    color: black;
+}

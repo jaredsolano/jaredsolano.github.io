@@ -1,0 +1,14 @@
+.image{
+    border-radius: 50%;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(78, 78, 153);
+}
+
+.fa-linkedin-square:hover{
+    color:#0072b1;
+}
